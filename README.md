@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DonnyWool
 - 👀 I’m interested in creating something beneficial
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on anything that piques my interest after I become more knowledgeable of course
 - 📫 How to reach me ; my email is likely the best option
 
